@@ -1,0 +1,28 @@
+name: Burnaby Jeet Kune Do
+favicon: null
+layout_spectrum: 0.4841924379579723
+typography_spectrum: 0.05663703731261194
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.08857375639490783
+  lightness: 0.7886571863200516
+  saturation: 0.3931014216504991
+  rhythmicContrast: 0.7545100783463567
+purpose: []
